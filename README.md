@@ -1,0 +1,2 @@
+# two-days-data-analytics-workshop
+This is an initiative to design hands-on two days data analytics workshop for the higher level managers, who want to see the insights from their multiple-years-stale-data of their business operations. Data never lie, and Data often surprises with new insights. That is the goal of this workshop to derive new insights with a number of tools and approaches according to the workshop participants' preferences.
